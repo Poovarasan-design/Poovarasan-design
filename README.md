@@ -3,7 +3,7 @@
 ### Full-Stack Developer | Web Development | Building Real-World Projects
 
 <p align="center">
-  <img src=""tony.webp"" width="400" alt="Coding animation">
+  <img src=""War Shockwave GIF.gif"" width="400" alt="L.Poovarasan">
 </p>
 
 I'm a Computer Science and Engineering student passionate about building modern, user-friendly web applications and solving real-world problems through technology.
