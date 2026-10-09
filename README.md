@@ -2,6 +2,10 @@
 
 ### Full-Stack Developer | Web Development | Building Real-World Projects
 
+<p align="center">
+  <img src=""tony.webp"" width="400" alt="Coding animation">
+</p>
+
 I'm a Computer Science and Engineering student passionate about building modern, user-friendly web applications and solving real-world problems through technology.
 
 - 💻 Interested in full-stack development and modern web technologies.
